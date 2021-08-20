@@ -1,4 +1,11 @@
-Hi there, welcome to my Github profile! 🤠 <br>
+Hey there  🤠 <br>
+
+✨ My name is Harshita <br> <br>
+✨ I am a Software Developer  <br><br>
+✨ Graduated from the University of Illinois at Chicago in May 2021 with a Bachelor's of Science in Computer Science <br><br>
+
+<br>
+
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
