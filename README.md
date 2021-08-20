@@ -3,6 +3,7 @@ Hey there  🤠 <br>
 ✨ My name is Harshita <br> <br>
 ✨ I am a Software Developer  <br><br>
 ✨ I graduated from the University of Illinois at Chicago in May 2021 with a Bachelor's of Science in Computer Science <br><br>
+✨ I have experience in the following programming languages <br><br>
 
 <br>
 
